@@ -14,6 +14,8 @@ creator:
     - http://de.wikipedia.org/wiki/Heinrich_Mann
     - http://en.wikipedia.org/wiki/Heinrich_Mann
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44174#Die-kleine-Stadt--Roman
 gutenberg_issued: '2013-11-13'
 gutenberg_type: Text
 identifiers:
